@@ -1,0 +1,7 @@
+cross-armv7a-hf
+cross-arm-hardfloat-linux-gnueabi
+cross-armv7l-hardfloat-linux-gnueabi
+cross-armv7a-hardfloat-linux-gnueabi
+cross-armv7a-hardfloat-none-eabi
+cross-armv7a-hardfloat-linux-eabi
+cross-arm-gentoo-linux-gnueabi
