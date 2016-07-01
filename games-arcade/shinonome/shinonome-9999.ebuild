@@ -11,7 +11,7 @@ HOMEPAGE="https://github.com/kuroclef/shinonome"
 
 EGIT_REPO_URI="git://github.com/kuroclef/shinonome.git"
 
-LICENSE="GPL-2"
+LICENSE="GPL-3"
 SLOT="0"
 IUSE=""
 KEYWORDS="~alpha ~amd64 ~arm ~arm64 ~hppa ~ia64 ~m68k ~mips ~ppc ~ppc64 ~s390 ~sh ~sparc ~x86"
