@@ -4,7 +4,7 @@
 
 EAPI=5
 
-inherit games git-r3
+inherit git-r3
 
 DESCRIPTION="A console-based BMS player using ncurses."
 HOMEPAGE="https://github.com/kuroclef/shinonome"
@@ -14,7 +14,7 @@ EGIT_REPO_URI="git://github.com/kuroclef/shinonome.git"
 LICENSE="GPL-3"
 SLOT="0"
 IUSE=""
-KEYWORDS="~alpha ~amd64 ~arm ~arm64 ~hppa ~ia64 ~m68k ~mips ~ppc ~ppc64 ~s390 ~sh ~sparc ~x86"
+KEYWORDS="~amd64 ~x86"
 
 DEPEND="sys-libs/ncurses
 		media-libs/libsdl2
@@ -24,4 +24,3 @@ RDEPEND="${DEPEND}"
 src_install() {
 	dobin shinonome
 }
-
