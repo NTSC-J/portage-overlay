@@ -1,0 +1,13 @@
+--- src/plugins/Videoner/videoner_res.qrc.orig	2016-07-27 22:03:57.253799332 +0900
++++ src/plugins/Videoner/videoner_res.qrc	2016-07-27 22:05:15.950804448 +0900
+@@ -2,10 +2,6 @@
+     <qresource prefix="/videoner">
+         <file>data/videoner.png</file>
+         <file>locale/ar_SA.qm</file>
+-        <file>locale/ca_ES.qm</file>
+-        <file>locale/cs_CZ.qm</file>
+-        <file>locale/de_DE.qm</file>
+-        <file>locale/el_GR.qm</file>
+         <file>locale/es_ES.qm</file>
+         <file>locale/es_MX.qm</file>
+         <file>locale/es_VE.qm</file>
