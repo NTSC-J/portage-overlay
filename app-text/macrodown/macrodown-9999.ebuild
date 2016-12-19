@@ -21,4 +21,5 @@ RDEPEND="${DEPEND}"
 
 src_install() {
 	dobin bin/macrodown
+	dodoc -r doc/* samples
 }
